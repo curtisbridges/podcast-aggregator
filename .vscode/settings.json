@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true
+}
